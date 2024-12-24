@@ -1,2 +1,2 @@
 # python-api
-and api made with python
+an api made with python
